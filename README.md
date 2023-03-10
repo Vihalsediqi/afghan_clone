@@ -15,4 +15,5 @@
 # git clone https://github.com/Vihalsediqi/afghan_clone.git
 # cd afghan_clone
 # is 
-# python2 country.py
+# python2 afghan_clone.py
+# created by afghan logari
